@@ -1,0 +1,8 @@
+opreators:
+arithmatic:+-*/%**//
+relational < > <= >= != ==
+logical & / !
+assignment += -= *= /= =   
+membership in notin
+identity is isnot 
+bitwise & / << >> ^ ~
